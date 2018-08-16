@@ -1,0 +1,14 @@
+table, tr, td, th, thead{
+border: 1px solid black;
+
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr: :nth-child(odd){
+
+    background-color: red;
+    
+}
